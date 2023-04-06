@@ -1,2 +1,2 @@
-# bookmarks
-Collections of references
+# Bookmarks
+Collections of references by directory
